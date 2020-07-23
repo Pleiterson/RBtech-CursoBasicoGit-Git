@@ -1,3 +1,5 @@
 Leia este arquivo antes de iniciar o projeto.
 
-mais um conteúdo neste arquivo.
+Mais uma linha adicionada.
+
+Outra linha adicionada ao arquivo.
