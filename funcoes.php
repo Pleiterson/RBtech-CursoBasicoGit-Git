@@ -5,6 +5,6 @@ function branch_teste(){
 	return TRUE;
 }
 
-function branch_funcao1(){
+function branch_funcao1($num=0){
 	return FALSE;
 }
