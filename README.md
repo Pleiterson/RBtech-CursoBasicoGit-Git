@@ -12,16 +12,16 @@
 
 
 <!--About session-->
-<h1 align="center">Curso básico de git para iniciantes </h1>
-
+<h1 align="center">Curso básico de git para iniciantes - RBtech</h1>
 
 Curso oferecido no canal da [RBtech](https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ) no YouTube. 
 
-Playlist dos [vídeos](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+- [Playlist dos vídeos](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 
-Download do [Git](https://git-scm.com/downloads).
+- [Download](https://git-scm.com/downloads)
 
-Download do [Aptana Studio](https://github.com/aptana/studio3/releases), utilizado para criação das pastas e de arquivos para serem utilizados em todo o curso.
+- Download do [Aptana Studio](https://github.com/aptana/studio3/releases), utilizado para criação das pastas e de arquivos para serem utilizados em todo o curso.
+
 
 <h3>🚀 O que foi visto nas aulas</h3>
 
