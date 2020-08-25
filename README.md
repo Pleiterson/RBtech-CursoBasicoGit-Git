@@ -17,7 +17,7 @@
 Curso oferecido no canal da [RBtech](https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ) no YouTube. 
 
 - [Playlist dos vídeos](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
-- [Download](https://git-scm.com/downloads)
+- [Download](https://git-scm.com/downloads) git
 - Download do [Aptana Studio](https://github.com/aptana/studio3/releases), utilizado para criação das pastas e de arquivos para serem utilizados em todo o curso.
 
 
