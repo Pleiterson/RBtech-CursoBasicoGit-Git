@@ -33,8 +33,9 @@ Curso oferecido no canal da [RBtech](https://www.youtube.com/channel/UCVEa_x1n5F
   - <b>clear:</b> Limpa toda a tela do Terminal para melhor visualização dos dados. Este comando não apaga nenhum outro comando já realizado, apenas limpa a tela.
   - <b>git init:</b> Cria um repositório na pasta atual de acordo com o informado no Terminal. Todos as alterações, modificações serão salvas neste repositório, e só a partir dele você consegue iniciar de fato seu projeto.
   - <b>git status:</b> Retorna o status atual de seu repositório. Ele mostrará o que foi modificado e o que tem de novo para adicionar no seu repositório.
-  - <b>git add "nome do arquivo.extensão" | git add . | git add *.txt:</b> Adiciona arquivos na sua staged área para controle de versões do seu projeto. O comando <b>git add "nome do arquivo.extensão"</b> vai adicionar apenas o arquivo que foi informado na staged área do git. O comando <b>git add .</b>, mais utilizado, adiciona todos os arquivos na staged área para iniciar o controle de versões do mesmo. O comando <b>git add *.txt</b> adiciona todos os arquivos de extensão .txt <i>(pode utilizar qualquer extensão que estiver utilizando conforme seu projeto).</i>
-  - <b>git commit -m "mensagem do commit" | git commit –a –m "mensagem do commit":</b> Comando de commitar, de salvar as mudanças no seu projeto. O <b>-m</b> do comando de commit refere-se a mensagem que você deve informar na hora de comitar. Utilizando o comando <b>git commit –a –m "mensagem do commit"</b> não há a necessidade de dar um <b>git add</b>, visto que o <b>-a</b> já adiciona e o git commit já comita toda a alteração realizada.
+  - <b>git add "nome do arquivo.extensão" | git add . | git add *.txt:</b> Adiciona arquivos na sua staged área para controle de versões do seu projeto. O comando <b>git add "nome do arquivo.extensão"</b> vai adicionar apenas o arquivo que foi informado na staged área do git. O comando <b>git add .</b>, mais utilizado, adiciona todos os arquivos na staged área para iniciar o controle de versões do mesmo. O comando <b>git add *.txt</b> adiciona todos os arquivos de extensão .txt <i>(pode utilizar 
+   extensão que estiver utilizando conforme seu projeto).</i>
+  - <b>git commit -m "mensagem do commit" | git commit –a –m "mensagem do commit":</b> Comando de commitar, de salvar as mudanças no seu projeto. O <b>-m</b> do comando de commit refere-se a mensagem que você deve informar na hora de commitar. Utilizando o comando <b>git commit –a –m "mensagem do commit"</b> não há a necessidade de dar um <b>git add</b>, visto que o <b>-a</b> já adiciona e o git commit já commita toda a alteração realizada.
 
 - <b>Aula 3 | Visualizando alterações em arquivos ou commits anteriores</b>
   - <i>em andamento...</i>
@@ -53,7 +54,7 @@ Curso oferecido no canal da [RBtech](https://www.youtube.com/channel/UCVEa_x1n5F
 
 - <b>Aula 8 | Como colaborar com Projetos Open Source através do GitHub</b>
   - <i>em andamento...</i>
-
+<br><br>
 
 <!--License session-->
 <h3>📝 Licença</h3>
@@ -62,4 +63,4 @@ Este projeto está sob a licença [MIT](./LICENSE).
 
 
 <!--Bottom session-->
-<h4 align=center>Made with by <a href="https://www.linkedin.com/in/pleiterson">Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
